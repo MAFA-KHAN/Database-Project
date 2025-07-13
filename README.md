@@ -60,22 +60,6 @@
 * 📊 Visual Dashboards with LiveCharts
 * 🌐 English Language Support
 
----
-
-## 🏗️ System Architecture
-
-```mermaid
-graph TD
-    UI["WPF Frontend (XAML)"] --> Logic["C# Code-Behind"]
-    Logic --> DB["MySQL Database"]
-    Logic --> PDFGen["QuestPDF for Report Generation"]
-    Logic --> Charting["LiveCharts.WPF"]
-    Logic --> Mail["SMTP (Gmail) Integration"]
-    UI --> Auth["Login, Signup Pages"]
-    Logic --> SupplierMgmt["Supplier Data CRUD"]
-    Logic --> Reports["PDF & Excel Reports"]
-    Reports --> Output["Printable Reports"]
-```
 
 ---
 
