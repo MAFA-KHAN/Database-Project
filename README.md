@@ -14,25 +14,37 @@ Built for performance. Tailored for real-world trade.
 
 ---
 
-## 🖼️ System Screenshots
 
-> *Below are key interface visuals from PTMS. These demonstrate the professionalism, usability, and WPF interface design of the system.*
 
-```md
+### 🖼️ **System Screenshots**
 <!-- Replace these placeholder paths with your actual screenshot file paths -->
 
-![Welcome Screen](./assets/welcome.png)
-*Elegant Welcome Screen — Designed for a smooth onboarding experience*
+![Admin Dashboard](./prime-tech/main.png)
+*Administrator Dashboard - Real-time metrics and operational insights*
 
-![Sign Up Page](./assets/signup.png)
-*User Registration with Field Validation & Responsive Styling*
+![Dark Theme Interface](./assets/black.png)
+*Dark Burgundy Theme - Modern night-shift friendly interface*
 
-![Sign In Page](./assets/signin.png)
-*Secure Sign-In with Role-Based Access Handling*
+![Secure Login Page](./assets/Login.png)
+*Secure Authentication Portal with Role-based Access*
 
-![README Dashboard](./assets/dashboard.png)
-*Main Dashboard - Overview of supplier activities and metrics*
-```
+![Urdu Language Interface](./assets/urdu.png)
+*Urdu Language Support - Seamless bilingual functionality*
+
+![Inventory Management](./assets/Inventory.png)
+*Comprehensive Inventory Management with Real-time Tracking*
+
+![Inventory Usage Analytics](./assets/usage.png)
+*Advanced Usage Analytics with Cost Tracking and Reports*
+
+![Feedback Management](./assets/Feedback.png)
+*Integrated Feedback and Issue Management System*
+
+![Lab Technician Dashboard](./assets/ldash.png)
+*Lab Technician Portal - Streamlined workflow management*
+
+![PDF Report Sample](./assets/reportgen.png)
+*Professional PDF Report Generation - Automated and Template-based*
 
 ---
 
