@@ -6,7 +6,7 @@
 ![Framework](https://img.shields.io/badge/.NET-WPF-512BD4?style=for-the-badge\&logo=dotnet)
 ![Database](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge\&logo=mysql)
 ![Language Support](https://img.shields.io/badge/Language-English-FF6B6B?style=for-the-badge)
-
+---
 A professional-grade desktop system designed exclusively for Prime Tech to manage and streamline export operations between Pakistan and Iran.
 Built for performance. Tailored for real-world trade.
 
@@ -14,39 +14,73 @@ Built for performance. Tailored for real-world trade.
 
 ---
 
+<div align="center">
 
+### **System Screenshots**
 
-### 🖼️ **System Screenshots**
-<!-- Replace these placeholder paths with your actual screenshot file paths -->
+<!-- Interface Previews -->
 
-![welcome screen](./prime-tech/main.PNG)
-*Smooth and modern welcome interface with premium styling*
-
-![signin/signup pages](./prime-tech/signin.png)
-*Secure Authentication Portal with Role-based Access*
-
-![Secure Login Page](./assets/Login.png)
-*Secure Authentication Portal with Role-based Access*
-
-![Urdu Language Interface](./assets/urdu.png)
-*Urdu Language Support - Seamless bilingual functionality*
-
-![Inventory Management](./assets/Inventory.png)
-*Comprehensive Inventory Management with Real-time Tracking*
-
-![Inventory Usage Analytics](./assets/usage.png)
-*Advanced Usage Analytics with Cost Tracking and Reports*
-
-![Feedback Management](./assets/Feedback.png)
-*Integrated Feedback and Issue Management System*
-
-![Lab Technician Dashboard](./assets/ldash.png)
-*Lab Technician Portal - Streamlined workflow management*
-
-![PDF Report Sample](./assets/reportgen.png)
-*Professional PDF Report Generation - Automated and Template-based*
+<img src="./prime-tech/main.PNG" width="1000"/>
+<p><em>Smooth and modern welcome interface with premium styling</em></p>
 
 ---
+
+<img src="./prime-tech/signin.png" width="600"/>
+<p><strong>Secure Authentication Portal with Role-based Access</strong></p>
+
+---
+
+<img src="./prime-tech/admin.png" width="1000"/>
+<p><em>Administrator control panel for managing system-wide activities, employee access, and operations</em></p>
+
+---
+
+<img src="./prime-tech/profile.png" width="1000"/>
+<p><em>Personalized user profile with activity overview</em></p>
+
+---
+
+<img src="./prime-tech/profileedit.png" width="1000"/>
+<p><em>Modern UI for profile updates and settings adjustment</em></p>
+
+---
+
+<img src="./prime-tech/supplier.png" width="1000"/>
+<p><em>Supplier module to add, manage, and export products, handle customers, and maintain profiles</em></p>
+
+---
+
+<img src="./prime-tech/supprofile.png" width="1000"/>
+<p><em>Clean and structured supplier profile with real-time product linkage</em></p>
+
+---
+
+<img src="./prime-tech/employee.png" width="1000"/>
+<p><em>Manage employee data with editable profiles and role-based assignment</em></p>
+
+---
+
+<img src="./prime-tech/curd.png" width="1000"/>
+<p><em>Intuitive interface to view and edit user profiles seamlessly</em></p>
+
+---
+
+<img src="./prime-tech/curd1.png" width="1000"/>
+<p><em>Full-featured CRUD system for Create, Read, Update, and Delete operations</em></p>
+
+---
+
+<img src="./prime-tech/report.png" width="1000"/>
+<p><em>Auto-generated visual and tabular reports – export-ready and time-stamped</em></p>
+
+---
+
+<img src="./prime-tech/view.png" width="1000"/>
+<p><em>Quick-view panel to inspect entries, summaries, and database records</em></p>
+
+---
+</div>
+
 
 ## 🎯 Overview
 
