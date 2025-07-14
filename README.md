@@ -1,6 +1,7 @@
-#  Prime Tech Management System (PTMS)
 
 <div align="center">
+
+#  Prime Tech Management System (PTMS)
 
 ![Project Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge)
 ![Framework](https://img.shields.io/badge/.NET-WPF-512BD4?style=for-the-badge\&logo=dotnet)
@@ -171,9 +172,18 @@ Built for performance. Tailored for real-world trade.
 
 ## 📌 Credits
 
-Developed with dedication for Prime Tech as part of an academic capstone project.
+Developed with dedication for **Prime Tech** as part of an academic capstone project.
 
->This system was developed solely for learning and demonstration purposes — not for commercial use or deployment.
+> This system was developed solely for learning and demonstration purposes — not for commercial use or deployment.
+
+### 👥 Collaborators
+
+- [@MAFA-KHAN](https://github.com/MAFA-KHAN) 
+- [@ismeelkhan1469](https://github.com/ismeelkhan1469)
+- [@unfav-baker](https://github.com/unfav-baker)
+
+
+
 
 ---
 
