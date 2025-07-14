@@ -17,7 +17,8 @@ Built for performance. Tailored for real-world trade.
 
 <div align="center">
 
-### **System Screenshots**
+# **System Screenshots**
+---
 
 <!-- Interface Previews -->
 
