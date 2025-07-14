@@ -1,4 +1,4 @@
-# 🏢 Prime Tech Management System (PTMS)
+#  Prime Tech Management System (PTMS)
 
 <div align="center">
 
