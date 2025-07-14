@@ -19,7 +19,7 @@ Built for performance. Tailored for real-world trade.
 ### 🖼️ **System Screenshots**
 <!-- Replace these placeholder paths with your actual screenshot file paths -->
 
-![Admin Dashboard](./prime-tech/main.png)
+![Admin Dashboard](./prime-tech/main.PNG)
 *Administrator Dashboard - Real-time metrics and operational insights*
 
 ![Dark Theme Interface](./assets/black.png)
