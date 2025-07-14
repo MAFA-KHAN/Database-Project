@@ -5,9 +5,10 @@
 ![Project Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=for-the-badge)
 ![Framework](https://img.shields.io/badge/.NET-WPF-512BD4?style=for-the-badge\&logo=dotnet)
 ![Database](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge\&logo=mysql)
-![Language Support](https://img.shields.io/badge/Languages-English-FF6B6B?style=for-the-badge)
+![Language Support](https://img.shields.io/badge/Language-English-FF6B6B?style=for-the-badge)
 
-*A professional-grade business management desktop system for overseeing export operations between Pakistan and Iran, developed exclusively for Prime Tech.*
+A professional-grade desktop system designed exclusively for Prime Tech to manage and streamline export operations between Pakistan and Iran.
+Built for performance. Tailored for real-world trade.
 
 </div>
 
@@ -124,9 +125,9 @@
 
 ## 📌 Credits
 
-Built with ❤️ for Prime Tech as part of an academic final project.
+Developed with dedication for Prime Tech as part of an academic capstone project.
 
-> This project is for **educational use only** and not affiliated with any commercial deployment.
+>This system was developed solely for learning and demonstration purposes — not for commercial use or deployment.
 
 ---
 
