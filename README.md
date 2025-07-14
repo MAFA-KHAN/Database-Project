@@ -19,11 +19,11 @@ Built for performance. Tailored for real-world trade.
 ### 🖼️ **System Screenshots**
 <!-- Replace these placeholder paths with your actual screenshot file paths -->
 
-![Admin Dashboard](./prime-tech/main.PNG)
-*Administrator Dashboard - Real-time metrics and operational insights*
+![welcome screen](./prime-tech/main.PNG)
+*Smooth and modern welcome interface with premium styling*
 
-![Dark Theme Interface](./assets/black.png)
-*Dark Burgundy Theme - Modern night-shift friendly interface*
+![signin/signup pages](./prime-tech/signin.png)
+*Secure Authentication Portal with Role-based Access*
 
 ![Secure Login Page](./assets/Login.png)
 *Secure Authentication Portal with Role-based Access*
